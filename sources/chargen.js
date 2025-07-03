@@ -113,7 +113,7 @@ $(document).ready(function () {
 	idle: 2,
 	jump: 5,
 	sit: 3,
-	emote: 3,
+	emote: 4,
 	run: 8,
 	combat_idle: 2,
 	backslash: 13,

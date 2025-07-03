@@ -67,7 +67,7 @@ function cropSheet(sheet, sheetHeight, isMasterSheet) {
     if (!result) {
         return
     }
-    result = cropToSubSheet(sheet, 3*universalFrameSize, 4*universalFrameSize,3*universalFrameSize,30*universalFrameSize,"emote", sheetHeight, isMasterSheet);
+    result = cropToSubSheet(sheet, 4*universalFrameSize, 4*universalFrameSize,3*universalFrameSize,30*universalFrameSize,"emote", sheetHeight, isMasterSheet);
     if (!result) {
         return
     }

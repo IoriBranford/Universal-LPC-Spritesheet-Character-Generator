@@ -1,6 +1,5 @@
 {
   "name": "Cavalier",
-  "type_name": "hat",
   "layer_1": {
     "zPos": 130,
     "male": "hat/pirate/cavalier/adult/",
@@ -70,5 +69,12 @@
         "https://opengameart.org/content/lpc-expanded-hats-facial-helmets"
       ]
     }
-  ]
+  ],
+  "path": [
+    "head",
+    "hats",
+    "caps",
+    "hat_cap_cavalier"
+  ],
+  "type_name": "hat"
 }

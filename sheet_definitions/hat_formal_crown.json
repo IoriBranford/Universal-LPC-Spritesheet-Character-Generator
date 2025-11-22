@@ -1,6 +1,5 @@
 {
   "name": "Crown",
-  "type_name": "hat",
   "layer_1": {
     "zPos": 130,
     "male": "hat/formal/crown/adult/",
@@ -84,5 +83,12 @@
         "https://opengameart.org/content/lpc-expanded-hats-facial-helmets"
       ]
     }
-  ]
+  ],
+  "path": [
+    "head",
+    "hats",
+    "formal",
+    "hat_formal_crown"
+  ],
+  "type_name": "hat"
 }

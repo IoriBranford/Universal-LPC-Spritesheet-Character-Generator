@@ -1,6 +1,5 @@
 {
   "name": "Lob",
-  "type_name": "hair",
   "layer_1": {
     "zPos": 120,
     "male": "hair/lob/adult/",
@@ -70,5 +69,12 @@
         "https://opengameart.org/content/lpc-hair"
       ]
     }
-  ]
+  ],
+  "path": [
+    "head",
+    "hair",
+    "bob",
+    "hair_lob"
+  ],
+  "type_name": "hair"
 }

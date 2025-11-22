@@ -1,6 +1,5 @@
 {
   "name": "Jabot",
-  "type_name": "neck",
   "layer_1": {
     "zPos": 90,
     "male": "neck/jabot/male/",
@@ -48,5 +47,11 @@
         "https://opengameart.org/content/lpc-pirates"
       ]
     }
-  ]
+  ],
+  "path": [
+    "head",
+    "neck",
+    "neck_jabot"
+  ],
+  "type_name": "neck"
 }

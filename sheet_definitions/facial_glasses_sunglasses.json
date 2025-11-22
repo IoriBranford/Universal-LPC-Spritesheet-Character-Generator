@@ -1,6 +1,5 @@
 {
   "name": "Sunglasses",
-  "type_name": "facial_eyes",
   "layer_1": {
     "zPos": 115,
     "male": "facial/glasses/sunglasses/adult/",
@@ -83,5 +82,12 @@
         "https://opengameart.org/content/lpc-expanded-hats-facial-helmets"
       ]
     }
-  ]
+  ],
+  "path": [
+    "head",
+    "accessories",
+    "glasses",
+    "facial_glasses_sunglasses"
+  ],
+  "type_name": "facial_eyes"
 }

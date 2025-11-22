@@ -1,6 +1,5 @@
 {
   "name": "Bicorne foreaft",
-  "type_name": "hat",
   "layer_1": {
     "zPos": 130,
     "male": "hat/pirate/bicorne/foreaft/adult/",
@@ -70,5 +69,12 @@
         "https://opengameart.org/content/lpc-expanded-hats-facial-helmets"
       ]
     }
-  ]
+  ],
+  "path": [
+    "head",
+    "hats",
+    "bicorne foreaft",
+    "hat_bicorne_foreaft"
+  ],
+  "type_name": "hat"
 }

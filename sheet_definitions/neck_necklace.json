@@ -1,6 +1,5 @@
 {
   "name": "Necklace",
-  "type_name": "necklace",
   "layer_1": {
     "zPos": 80,
     "male": "neck/necklace/female/",
@@ -37,5 +36,11 @@
         "http://opengameart.org/content/lpc-clothing-updates"
       ]
     }
-  ]
+  ],
+  "path": [
+    "head",
+    "neck",
+    "neck_necklace"
+  ],
+  "type_name": "necklace"
 }

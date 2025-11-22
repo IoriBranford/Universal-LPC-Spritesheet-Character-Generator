@@ -1,6 +1,5 @@
 {
   "name": "Tail Fin (PLACEHOLDER; assets coming soon!)",
-  "type_name": "tail",
   "layer_1": {
     "zPos": 85,
     "male": "body/tail/fin/adult/fg/",
@@ -66,5 +65,11 @@
     "1h_backslash",
     "1h_halfslash"
   ],
-  "credits": []
+  "credits": [],
+  "path": [
+    "body",
+    "tails",
+    "tail_fin"
+  ],
+  "type_name": "tail"
 }

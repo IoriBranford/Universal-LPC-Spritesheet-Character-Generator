@@ -1,6 +1,5 @@
 {
   "name": "Barbuta",
-  "type_name": "hat",
   "layer_1": {
     "zPos": 130,
     "female": "hat/helmet/barbuta/female/",
@@ -57,5 +56,12 @@
         "https://opengameart.org/content/lpc-expanded-hats-facial-helmets"
       ]
     }
-  ]
+  ],
+  "path": [
+    "head",
+    "helmets",
+    "helmets",
+    "hat_helmet_barbuta"
+  ],
+  "type_name": "hat"
 }

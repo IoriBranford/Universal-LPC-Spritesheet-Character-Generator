@@ -1,6 +1,5 @@
 {
   "name": "Bowtie 2",
-  "type_name": "neck",
   "layer_1": {
     "zPos": 90,
     "male": "neck/tie/bowtie2/adult/",
@@ -70,5 +69,11 @@
         "https://opengameart.org/content/lpc-expanded-sit-run-jump-more"
       ]
     }
-  ]
+  ],
+  "path": [
+    "head",
+    "neck",
+    "neck_bowtie2"
+  ],
+  "type_name": "neck"
 }

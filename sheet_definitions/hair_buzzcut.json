@@ -1,6 +1,5 @@
 {
   "name": "Buzzcut",
-  "type_name": "hair",
   "layer_1": {
     "zPos": 120,
     "male": "hair/buzzcut/adult/",
@@ -70,5 +69,12 @@
         "https://opengameart.org/content/lpc-hair"
       ]
     }
-  ]
+  ],
+  "path": [
+    "head",
+    "hair",
+    "bald/shaved",
+    "hair_buzzcut"
+  ],
+  "type_name": "hair"
 }

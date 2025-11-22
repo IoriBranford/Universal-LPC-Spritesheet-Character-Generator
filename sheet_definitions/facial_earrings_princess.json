@@ -1,6 +1,5 @@
 {
   "name": "Princess earrings",
-  "type_name": "earrings",
   "layer_1": {
     "zPos": 115,
     "male": "facial/earrings/princess/male/",
@@ -31,5 +30,12 @@
         "https://opengameart.org/content/lpc-jewelry"
       ]
     }
-  ]
+  ],
+  "path": [
+    "head",
+    "accessories",
+    "earrings",
+    "facial_earrings_princess"
+  ],
+  "type_name": "earrings"
 }

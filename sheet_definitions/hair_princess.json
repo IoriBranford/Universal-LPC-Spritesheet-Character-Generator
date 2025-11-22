@@ -1,6 +1,5 @@
 {
   "name": "Princess",
-  "type_name": "hair",
   "layer_1": {
     "zPos": 120,
     "male": "hair/princess/adult/fg/",
@@ -82,5 +81,12 @@
         "https://opengameart.org/content/lpc-expanded-hair"
       ]
     }
-  ]
+  ],
+  "path": [
+    "head",
+    "hair",
+    "very long",
+    "hair_princess"
+  ],
+  "type_name": "hair"
 }

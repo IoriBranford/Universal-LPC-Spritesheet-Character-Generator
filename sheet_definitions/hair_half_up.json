@@ -1,6 +1,5 @@
 {
   "name": "Half up",
-  "type_name": "hair",
   "layer_1": {
     "zPos": 120,
     "male": "hair/half_up/adult/",
@@ -70,5 +69,12 @@
         "https://opengameart.org/content/lpc-hair"
       ]
     }
-  ]
+  ],
+  "path": [
+    "head",
+    "hair",
+    "braids, ponytails, updos",
+    "hair_half_up"
+  ],
+  "type_name": "hair"
 }

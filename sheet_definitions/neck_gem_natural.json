@@ -1,6 +1,5 @@
 {
   "name": "Natural cut Gem",
-  "type_name": "charm",
   "layer_1": {
     "zPos": 81,
     "male": "neck/gem/natural/male/",
@@ -31,5 +30,12 @@
         "https://opengameart.org/content/lpc-jewelry"
       ]
     }
-  ]
+  ],
+  "path": [
+    "head",
+    "neck",
+    "necklace charms",
+    "neck_gem_natural"
+  ],
+  "type_name": "charm"
 }

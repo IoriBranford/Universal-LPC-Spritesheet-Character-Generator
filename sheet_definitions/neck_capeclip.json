@@ -1,6 +1,5 @@
 {
   "name": "Capeclip",
-  "type_name": "neck",
   "layer_1": {
     "zPos": 90,
     "male": "neck/capeclip/male/",
@@ -53,5 +52,11 @@
         "http://opengameart.org/content/lpc-clothing-updates"
       ]
     }
-  ]
+  ],
+  "path": [
+    "head",
+    "neck",
+    "neck_capeclip"
+  ],
+  "type_name": "neck"
 }

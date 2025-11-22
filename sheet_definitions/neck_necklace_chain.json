@@ -1,6 +1,5 @@
 {
   "name": "Chain Necklace",
-  "type_name": "necklace",
   "layer_1": {
     "zPos": 80,
     "male": "neck/necklace/chain/male/",
@@ -33,5 +32,11 @@
         "https://opengameart.org/content/lpc-jewelry"
       ]
     }
-  ]
+  ],
+  "path": [
+    "head",
+    "neck",
+    "neck_necklace_chain"
+  ],
+  "type_name": "necklace"
 }

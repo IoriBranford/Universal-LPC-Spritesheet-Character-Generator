@@ -1,6 +1,5 @@
 {
   "name": "Relm w/Ponytail",
-  "type_name": "hair",
   "layer_1": {
     "zPos": 120,
     "male": "hair/relm_ponytail/adult/mg/",
@@ -92,5 +91,12 @@
         "https://opengameart.org/content/lpc-expanded-xlong-hair"
       ]
     }
-  ]
+  ],
+  "path": [
+    "head",
+    "hair",
+    "braids, ponytails, updos",
+    "hair_relm_ponytail"
+  ],
+  "type_name": "hair"
 }

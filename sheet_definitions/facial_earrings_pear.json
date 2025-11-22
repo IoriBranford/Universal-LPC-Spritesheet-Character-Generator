@@ -1,6 +1,5 @@
 {
   "name": "Pear earrings",
-  "type_name": "earrings",
   "layer_1": {
     "zPos": 115,
     "male": "facial/earrings/pear/male/",
@@ -31,5 +30,12 @@
         "https://opengameart.org/content/lpc-jewelry"
       ]
     }
-  ]
+  ],
+  "path": [
+    "head",
+    "accessories",
+    "earrings",
+    "facial_earrings_pear"
+  ],
+  "type_name": "earrings"
 }

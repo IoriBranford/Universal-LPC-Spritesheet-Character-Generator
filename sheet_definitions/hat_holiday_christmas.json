@@ -1,7 +1,9 @@
 {
   "name": "Christmas Hat",
-  "type_name": "hat",
-  "tags": ["santa", "santa_hat"],
+  "tags": [
+    "santa",
+    "santa_hat"
+  ],
   "layer_1": {
     "zPos": 130,
     "female": "hat/holiday/christmas/adult/",
@@ -72,5 +74,12 @@
         "https://opengameart.org/content/lpc-expanded-hats-facial-helmets"
       ]
     }
-  ]
+  ],
+  "path": [
+    "head",
+    "hats",
+    "holiday",
+    "hat_holiday_christmas"
+  ],
+  "type_name": "hat"
 }

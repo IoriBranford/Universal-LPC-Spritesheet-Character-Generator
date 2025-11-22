@@ -1,6 +1,5 @@
 {
   "name": "Bowtie",
-  "type_name": "neck",
   "layer_1": {
     "zPos": 90,
     "male": "neck/tie/bowtie/adult/",
@@ -75,5 +74,11 @@
         "https://opengameart.org/content/lpc-gentleman"
       ]
     }
-  ]
+  ],
+  "path": [
+    "head",
+    "neck",
+    "neck_bowtie"
+  ],
+  "type_name": "neck"
 }

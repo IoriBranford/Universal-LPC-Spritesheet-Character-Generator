@@ -1,6 +1,5 @@
 {
   "name": "Long center part",
-  "type_name": "hair",
   "layer_1": {
     "zPos": 120,
     "male": "hair/long_center_part/adult/fg/",
@@ -80,5 +79,12 @@
         "https://opengameart.org/content/lpc-hair"
       ]
     }
-  ]
+  ],
+  "path": [
+    "head",
+    "hair",
+    "long",
+    "hair_long_center_part"
+  ],
+  "type_name": "hair"
 }

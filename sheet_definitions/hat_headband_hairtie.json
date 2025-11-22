@@ -1,6 +1,5 @@
 {
   "name": "Hair Tie",
-  "type_name": "hairtie",
   "layer_1": {
     "zPos": 125,
     "female": "hat/headband/hairtie/adult/",
@@ -72,5 +71,12 @@
         "https://opengameart.org/content/lpc-expanded-hats-facial-helmets"
       ]
     }
-  ]
+  ],
+  "path": [
+    "head",
+    "head coverings",
+    "headbands",
+    "hat_headband_hairtie"
+  ],
+  "type_name": "hairtie"
 }

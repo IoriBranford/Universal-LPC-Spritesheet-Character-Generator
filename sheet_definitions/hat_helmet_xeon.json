@@ -1,6 +1,5 @@
 {
   "name": "Xeon helmet",
-  "type_name": "hat",
   "layer_1": {
     "zPos": 130,
     "female": "hat/helmet/xeon/adult/",
@@ -53,5 +52,12 @@
         "https://opengameart.org/content/lpc-expanded-hats-facial-helmets"
       ]
     }
-  ]
+  ],
+  "path": [
+    "head",
+    "helmets",
+    "helmets",
+    "hat_helmet_xeon"
+  ],
+  "type_name": "hat"
 }

@@ -1,6 +1,5 @@
 {
   "name": "Helmet wings",
-  "type_name": "accessory",
   "layer_1": {
     "zPos": 139,
     "female": "hat/accessory/wings/fg/adult/",
@@ -86,5 +85,12 @@
         "https://opengameart.org/content/lpc-expanded-hats-facial-helmets"
       ]
     }
-  ]
+  ],
+  "path": [
+    "head",
+    "helmets",
+    "helmet accessories",
+    "hat_accessory_wings"
+  ],
+  "type_name": "accessory"
 }

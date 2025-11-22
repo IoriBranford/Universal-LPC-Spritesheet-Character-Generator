@@ -1,6 +1,5 @@
 {
   "name": "Tied Headband",
-  "type_name": "headcover",
   "layer_1": {
     "zPos": 125,
     "male": "hat/headband/tied/adult/",
@@ -71,5 +70,12 @@
         "https://opengameart.org/content/lpc-expanded-hats-facial-helmets"
       ]
     }
-  ]
+  ],
+  "path": [
+    "head",
+    "head coverings",
+    "headbands",
+    "hat_headband_tied"
+  ],
+  "type_name": "headcover"
 }

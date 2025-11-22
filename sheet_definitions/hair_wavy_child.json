@@ -1,6 +1,5 @@
 {
   "name": "Child Wavy",
-  "type_name": "hair",
   "layer_1": {
     "zPos": 120,
     "child": "hair/wavy/child/"
@@ -50,5 +49,12 @@
         "https://opengameart.org/content/3-hairs-for-lpc"
       ]
     }
-  ]
+  ],
+  "path": [
+    "head",
+    "hair",
+    "long",
+    "hair_wavy_child"
+  ],
+  "type_name": "hair"
 }

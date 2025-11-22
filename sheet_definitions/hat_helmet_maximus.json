@@ -1,6 +1,5 @@
 {
   "name": "Maximus",
-  "type_name": "hat",
   "layer_1": {
     "zPos": 130,
     "female": "hat/helmet/maximus/adult/",
@@ -57,5 +56,12 @@
         "https://opengameart.org/content/lpc-expanded-hats-facial-helmets"
       ]
     }
-  ]
+  ],
+  "path": [
+    "head",
+    "helmets",
+    "helmets",
+    "hat_helmet_maximus"
+  ],
+  "type_name": "hat"
 }

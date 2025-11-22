@@ -1,6 +1,5 @@
 {
   "name": "Simple Earring Right",
-  "type_name": "earring_right",
   "layer_1": {
     "zPos": 115,
     "male": "facial/earrings/simple/right/adult/",
@@ -78,5 +77,12 @@
         "https://opengameart.org/content/lpc-pirates"
       ]
     }
-  ]
+  ],
+  "path": [
+    "head",
+    "accessories",
+    "earrings",
+    "facial_earring_right"
+  ],
+  "type_name": "earring_right"
 }

@@ -1,6 +1,5 @@
 {
   "name": "Tiara",
-  "type_name": "hat",
   "layer_1": {
     "zPos": 130,
     "female": "hat/formal/tiara/adult/",
@@ -83,5 +82,12 @@
         "https://opengameart.org/content/lpc-expanded-hats-facial-helmets"
       ]
     }
-  ]
+  ],
+  "path": [
+    "head",
+    "hats",
+    "formal",
+    "hat_formal_tiara"
+  ],
+  "type_name": "hat"
 }

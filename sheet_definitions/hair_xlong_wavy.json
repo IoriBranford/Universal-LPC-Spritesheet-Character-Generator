@@ -1,6 +1,5 @@
 {
   "name": "XLong Wavy",
-  "type_name": "hair",
   "layer_1": {
     "zPos": 120,
     "male": "hair/xlong_wavy/adult/fg/",
@@ -79,5 +78,12 @@
         "https://opengameart.org/content/lpc-expanded-xlong-hair"
       ]
     }
-  ]
+  ],
+  "path": [
+    "head",
+    "hair",
+    "very long",
+    "hair_xlong_wavy"
+  ],
+  "type_name": "hair"
 }

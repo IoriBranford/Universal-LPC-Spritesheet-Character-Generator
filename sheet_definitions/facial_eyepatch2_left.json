@@ -1,6 +1,5 @@
 {
   "name": "Eyepatch 2 Left",
-  "type_name": "facial_eyes",
   "layer_1": {
     "zPos": 115,
     "male": "facial/patches/eyepatch2/left/adult/",
@@ -70,5 +69,12 @@
         "https://opengameart.org/content/lpc-expanded-sit-run-jump-more"
       ]
     }
-  ]
+  ],
+  "path": [
+    "head",
+    "accessories",
+    "eyepatches",
+    "facial_eyepatch2_left"
+  ],
+  "type_name": "facial_eyes"
 }

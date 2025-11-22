@@ -1,6 +1,5 @@
 {
   "name": "Shades",
-  "type_name": "facial_eyes",
   "layer_1": {
     "zPos": 115,
     "male": "facial/glasses/shades/adult/",
@@ -81,5 +80,12 @@
         "https://opengameart.org/content/lpc-base-character-expressions"
       ]
     }
-  ]
+  ],
+  "path": [
+    "head",
+    "accessories",
+    "glasses",
+    "facial_glasses_shades"
+  ],
+  "type_name": "facial_eyes"
 }

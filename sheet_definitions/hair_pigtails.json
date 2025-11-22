@@ -1,6 +1,5 @@
 {
   "name": "Pigtails",
-  "type_name": "hair",
   "layer_1": {
     "zPos": 120,
     "male": "hair/pigtails/adult/",
@@ -73,5 +72,12 @@
         "https://opengameart.org/content/lpc-hair"
       ]
     }
-  ]
+  ],
+  "path": [
+    "head",
+    "hair",
+    "pigtails",
+    "hair_pigtails"
+  ],
+  "type_name": "hair"
 }

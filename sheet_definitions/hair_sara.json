@@ -1,6 +1,5 @@
 {
   "name": "Sara",
-  "type_name": "hair",
   "layer_1": {
     "zPos": 120,
     "male": "hair/sara/adult/fg/",
@@ -84,5 +83,12 @@
         "https://opengameart.org/content/lpc-expanded-xlong-hair"
       ]
     }
-  ]
+  ],
+  "path": [
+    "head",
+    "hair",
+    "very long",
+    "hair_sara"
+  ],
+  "type_name": "hair"
 }

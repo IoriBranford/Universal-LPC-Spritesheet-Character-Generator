@@ -1,6 +1,5 @@
 {
   "name": "Eyepatch Ambidextrous",
-  "type_name": "facial_eyes",
   "layer_1": {
     "zPos": 115,
     "male": "facial/patches/eyepatch/ambi/adult/",
@@ -72,5 +71,12 @@
         "https://opengameart.org/content/lpc-expanded-hats-facial-helmets"
       ]
     }
-  ]
+  ],
+  "path": [
+    "head",
+    "accessories",
+    "eyepatches",
+    "facial_eyepatch_ambi"
+  ],
+  "type_name": "facial_eyes"
 }

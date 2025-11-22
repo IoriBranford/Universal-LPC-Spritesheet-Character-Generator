@@ -1,6 +1,5 @@
 {
   "name": "Armet",
-  "type_name": "hat",
   "layer_1": {
     "zPos": 130,
     "female": "hat/helmet/armet/adult/",
@@ -56,5 +55,12 @@
         "https://opengameart.org/content/lpc-expanded-hats-facial-helmets"
       ]
     }
-  ]
+  ],
+  "path": [
+    "head",
+    "helmets",
+    "helmets",
+    "hat_helmet_armet"
+  ],
+  "type_name": "hat"
 }

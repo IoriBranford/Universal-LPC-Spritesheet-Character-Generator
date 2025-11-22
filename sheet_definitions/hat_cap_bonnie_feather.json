@@ -1,6 +1,5 @@
 {
   "name": "Bonnie feather",
-  "type_name": "hat_accessory",
   "layer_1": {
     "zPos": 131,
     "male": "hat/pirate/bonnie/feather/adult/",
@@ -70,5 +69,12 @@
         "https://opengameart.org/content/lpc-expanded-hats-facial-helmets"
       ]
     }
-  ]
+  ],
+  "path": [
+    "head",
+    "hats",
+    "caps",
+    "hat_cap_bonnie_feather"
+  ],
+  "type_name": "hat_accessory"
 }

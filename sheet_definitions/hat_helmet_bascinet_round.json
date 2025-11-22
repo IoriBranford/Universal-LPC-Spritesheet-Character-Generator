@@ -1,6 +1,5 @@
 {
   "name": "Round bascinet",
-  "type_name": "hat",
   "layer_1": {
     "zPos": 130,
     "female": "hat/helmet/bascinet_round/adult/",
@@ -60,5 +59,12 @@
         "https://opengameart.org/content/lpc-expanded-hats-facial-helmets"
       ]
     }
-  ]
+  ],
+  "path": [
+    "head",
+    "helmets",
+    "helmets",
+    "hat_helmet_bascinet_round"
+  ],
+  "type_name": "hat"
 }

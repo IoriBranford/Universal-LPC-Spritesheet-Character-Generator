@@ -1,6 +1,5 @@
 {
   "name": "Curled Horns",
-  "type_name": "horns",
   "layer_1": {
     "zPos": 126,
     "male": "head/horns/curled/adult/",
@@ -104,5 +103,11 @@
         "https://opengameart.org/content/lpc-lizard-headgear"
       ]
     }
-  ]
+  ],
+  "path": [
+    "head",
+    "appendages",
+    "head_horns_curled"
+  ],
+  "type_name": "horns"
 }
